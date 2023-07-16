@@ -1,0 +1,6 @@
+[user]
+	email = pdrberg@roeberkel.eu
+	name = Patrick Bergenhenegouwen
+[credential]
+	helper = wincred
+	useHttppath = True
